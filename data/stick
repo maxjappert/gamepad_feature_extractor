@@ -1,0 +1,4 @@
+joystick
+X	x axis	3	SLIDER	X Axis	0	1.0	0.0
+Y	y axis	3	SLIDER	Y Axis	0	1.0	0.0
+Z	throttle	3	SLIDER	Z Axis	0	1.0	0.0
